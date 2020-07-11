@@ -1,6 +1,13 @@
-## Isabel K. Lee 🦞
-* Full-stack developer with 4 years of startup experience as a product designer.
-* Contributed to launching 20+ apps and features at various tech companies.
-* Specializes in product strategy, web development, and building diverse & inclusive company cultures.
-* Let’s build something together. 🌹
+# Isabel K. Lee 🦞
+Hey there! I'm a product designer-turned-software developer with 4 years of startup experience. I'm now a Software Engineering Coach at [Flatiron School](https://flatironschool.com). 🤓
+
+* I've contributed to launching 20+ apps and features at various tech companies.
+* I care about creating diversity + inclusivity initiatives, cooking for others, and trying my best.
 * They/them 🏳️‍🌈
+
+## Let's be friends 💓
+* Twitter: https://twitter.com/isabel_klee
+* LinkedIn: https://www.linkedin.com/in/isabelklee/
+* Email: hello@isabelklee.co
+* Dev.to: https://dev.to/isabelxklee
+* Medium: https://medium.com/@isabelklee
