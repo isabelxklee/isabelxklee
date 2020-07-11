@@ -6,6 +6,7 @@ Hey there! I'm a product designer-turned-software developer with 4 years of star
 * They/them 🏳️‍🌈
 
 ## Let's be friends 💓
+* Portfolio: https://kleetime.com
 * Twitter: https://twitter.com/isabel_klee
 * LinkedIn: https://www.linkedin.com/in/isabelklee/
 * Email: hello@isabelklee.co
