@@ -9,6 +9,5 @@ Hey there! I'm a product designer-turned-software developer with 4 years of star
 * Portfolio: https://kleetime.com
 * Twitter: https://twitter.com/isabel_klee
 * LinkedIn: https://www.linkedin.com/in/isabelklee/
-* Email: hello@isabelklee.co
 * Dev.to: https://dev.to/isabelxklee
 * Medium: https://medium.com/@isabelklee
