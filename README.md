@@ -1,4 +1,4 @@
-# Isabel K. Lee 🦞
+# Isabel K. Lee 🍤
 Hey there! I'm a product designer-turned-software developer with 4 years of startup experience. I'm now a Software Engineering Coach at [Flatiron School](https://flatironschool.com). 🤓
 
 * I've contributed to launching 20+ apps and features at various tech companies.
