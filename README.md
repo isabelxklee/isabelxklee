@@ -5,7 +5,7 @@ Hey there! I'm a product designer-turned-software developer with 4 years of star
 * I care about creating diversity + inclusivity initiatives, cooking for others, and trying my best.
 * They/them 🏳️‍🌈
 
-## Let's be friends 💓
+## Let's be friends 🍊
 * Portfolio: https://kleetime.com
 * Twitter: https://twitter.com/isabel_klee
 * LinkedIn: https://www.linkedin.com/in/isabelklee/
