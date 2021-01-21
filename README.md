@@ -6,8 +6,8 @@ I'm a product designer-turned-software developer with 4 years of startup experie
 * They/them 🏳️‍🌈
 
 ## Let's be friends 🍊
-* Portfolio: https://kleetime.com
-* Twitter: https://twitter.com/isabel_klee
+* Portfolio: https://www.kleetime.com
+* Twitter: https://www.twitter.com/isabel_klee
 * LinkedIn: https://www.linkedin.com/in/isabelklee/
-* Dev.to: https://dev.to/isabelxklee
-* Medium: https://medium.com/@isabelklee
+* Dev.to: https://www.dev.to/isabelxklee
+* Medium: https://www.medium.com/@isabelklee
