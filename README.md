@@ -1,5 +1,5 @@
 # Isabel K. Lee 🍤
-I'm a software engineer with a background in product design and education! I have 4 years of startup experience and I'm currently a technical teacher at [SuperHi](https://www.superhi.com), where I develop curriculum and content for software engineering courses. 🤓
+I'm a software engineer with a background in product design and education! I have 4 years of startup experience and I was recently a technical teacher at [SuperHi](https://www.superhi.com). 🤓
 
 * I've contributed to launching 20+ apps and features at various tech companies.
 * I care about political activism, cooking for others, and trying my best.
