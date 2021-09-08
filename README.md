@@ -11,5 +11,3 @@ I'm a software engineer with a background in product design and education! I hav
 * Portfolio: https://www.kleetime.com
 * Twitter: https://www.twitter.com/isabel_klee
 * LinkedIn: https://www.linkedin.com/in/isabelklee/
-* Dev.to: https://www.dev.to/isabelxklee
-* Medium: https://www.medium.com/@isabelklee
