@@ -1,5 +1,5 @@
 # Isabel K. Lee 🍤
-I'm a software engineer with a background in product design and education! I have 4+ years of startup experience and I currently work as a Technical Facilitator at Shopify. 🤓
+I'm a software engineer with a background in product design and education! I have 4+ years of startup experience and I currently work as a Technical Facilitator at [Shopify](https://shopify.engineering/). 🤓
 
 * Launched "Intro to React.js" course at SuperHi (4 chapters, 3 projects, 44 lesson videos, 4 homework exercises)
 * Taught fullstack web development at Flatiron School (Ruby, Rails, JavaScript, React)
