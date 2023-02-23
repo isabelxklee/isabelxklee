@@ -6,7 +6,7 @@ Hi there! 👋 I'm a fullstack developer with a background in product design, ad
 * Taught fullstack web development at Flatiron School (Ruby, Rails, JavaScript, React).
 * Contributed to launching 20+ apps and features at various tech companies as a product designer.
 * Passionate about political activism, improving diversity and inclusivity in the workplace, and fostering healthy communication.
-* They/them 🏳️‍🌈
+* She/they 🏳️‍🌈
 
 ## Let's be friends 🍊
 * Portfolio: https://www.kleetime.com
