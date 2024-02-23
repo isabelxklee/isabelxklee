@@ -1,5 +1,5 @@
 # Isabel K. Lee 🍤
-Hi there! 👋 I'm a BS Computer Science student with a background in full-stack development, technical education, and product strategy. 🤓
+Hi there! 👋 I'm a software engineer & BS Computer Science student, based in upstate New York. I a background in full-stack development, technical education, and product strategy in the NYC tech scene. 🤓
 
 * Developed software engineering onboarding curriculum and learning experiences as a Technical Learning Designer at Shopify. Delivered technical training to new hires in software engineering, UX, data, and product as a Technical Facilitator.
 * Launched "Intro to React.js" course at SuperHi (4 chapters, 3 projects, 44 lesson videos, 4 homework exercises).
