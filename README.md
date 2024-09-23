@@ -1,5 +1,5 @@
 # Isabel K. 🤠
-Hi there! 👋 I'm a software engineer & BS Computer Science student, based in NYC. I have a background in full-stack development, technical education, and product strategy at startups. 🤓
+Hi there! 👋 I'm a software engineer and BSc Computer Science student, based in NYC. I have a background in full-stack development, technical education, and product strategy at startups. 🤓
 
 * Shopify: Developed onboarding curriculum for new hire software engineers and delivered technical training.
 * SuperHi: Launched "Intro to React.js" course (4 chapters, 3 projects, 44 lesson videos, 4 homework exercises).
