@@ -6,8 +6,6 @@ Hi there! 👋 I'm a software engineer based in NYC. I have a background in full
 * SuperHi: Launched "Intro to React.js" course (4 chapters, 3 projects, 44 lesson videos, 4 homework exercises).
 * Flatiron School: Taught fullstack web development (Ruby, Rails, JavaScript, React).
 * Product design: Contributed to launching 20+ apps and features at various tech companies.
-* Passionate about political activism, improving diversity and inclusivity in the workplace, and fostering healthy communication.
-* She/they 🏳️‍🌈
 
 ## Let's be friends 🍊
 * Portfolio: https://www.kleetime.com
